@@ -1,0 +1,19 @@
+.App {
+  margin: 12px;
+  text-align: left;
+  font-size: 20px;
+  width: auto;
+  border-style: groove;
+  border-radius: 24px;
+  border-color: blue;
+  background-color: #adf;
+}
+
+.App input {
+  margin: 32px 16px 0 36px;
+  font-size: 20px;
+  border-radius: 12px;
+  padding: 8px;
+  text-align: left;
+  width: 124px;
+}
